@@ -62,4 +62,5 @@ Functions like 1). ISBLANK 2). ISNUMBER 3). CODE 4). CHAR 5). SUBSTITUTE
 
 # Pratice Exercise 
 Click on Go To File to see the application.
+Note: File starting with Analyzed have been modified or analyzed by me while Raw is the raw data as gotten from the data source.
 
