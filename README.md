@@ -61,5 +61,5 @@ Using diagnostic functions for data cleaning
 Functions like 1). ISBLANK 2). ISNUMBER 3). CODE 4). CHAR 5). SUBSTITUTE
 
 # Pratice Exercise 
-Please check the project file to see the practical applications.
+Click on Go To File to see the application.
 
